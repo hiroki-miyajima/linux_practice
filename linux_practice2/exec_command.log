@@ -1,0 +1,60 @@
+    1  pwd
+    2  /root
+    3  ls
+    4  cd ?root
+    5  cd /root
+    6  pwd
+    7  cd servry_lesson
+    8  cd server_lesson
+    9  pwd
+   10  ls
+   11  ls linux_practice
+   12  ls linux_practice1
+   13  ls pablic
+   14  ls linux_practice1/public
+   15  ls linux_practice1/tmp
+   16  ls
+   17  git log
+   18  mkdir linux_practice2 && cd linux_practice2
+   19  pwd
+   20  mkdir documents && cd documents
+   21  pwd
+   22  ls
+   23  touch gizumo[01..50].md
+   24  ls
+   25  rm gizumo[01..50].md
+   26  ls
+   27  touch gizumo{01..50}.md
+   28  ls
+   29  cd /root/server_lesson/linux_practice2
+   30  pwd
+   31  mkdir trash
+   32  ls
+   33  mv documents/gizumo{20..40}.md trash
+   34  ls tarash
+   35  ls trash
+   36  ls documents
+   37  touch .gitignore
+   38  ls
+   39  ls documents
+   40  ls trash
+   41  pwd
+   42  ls
+   43  touch .gitignore
+   44  ls
+   45  ls
+   46  git status
+   47  ls a
+   48  ls -a
+   49  vi .gitignore
+   50  s
+   51  ls documents
+   52  vi .gitignore
+   53  ls trash
+   54  git status
+   55  touch exec_command.log
+   56  ls
+   57  cd exec_command.log
+   58  history 300 > linux_practice2/exec_command.log
+   59  pwd
+   60  history 300 > exec_command.log
